@@ -1,0 +1,5 @@
+name: "Sample action to show runtime toke"
+description: "sample action to show runtime token, do not run in public repo"
+runs:
+  using: 'node12'
+  main: 'index.js'
